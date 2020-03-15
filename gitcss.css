@@ -1,0 +1,24 @@
+.a{
+    background-color: white;
+    color: black;
+    margin: 10px 330px;
+    padding: 5px 5px;
+    font-size: 60px;
+    border-radius: 5px;
+}
+
+.b{
+    margin: 5px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-family: "Allerta Stencil";
+    font-size: 20px;
+}
+
+.b:hover{
+    color: palevioletred;
+}
+
+.b:focus{
+    color: purple;
+}
